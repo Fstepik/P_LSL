@@ -1,5 +1,5 @@
 # LSL - Lokální spouštěcí lišta
-Nadupaný program umožnující přehlednout formou nabídnout exe soubory z množiny složek. Např. ze složky GINIS. Nabízejí se soubory začínající na GSA a končící 01, podmínkou je _x64 architektura daného prográmku, jinak se nenabídne.
+Nadupaný program umožnující přehlednou formou nabídnout exe soubory z množiny složek. Např. ze složky GINIS. Nabízejí se soubory začínající na GSA a končící 01, podmínkou je _x64 architektura daného prográmku, jinak se nenabídne.
 
 
 # Struktura Python projektu – Popis souborů a složek
